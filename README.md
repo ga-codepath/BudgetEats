@@ -98,6 +98,13 @@ Despite the taunts of various naysayers it is possible to eat well on a budget. 
 
 
 ### Networking
-- [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
+- Home screen
+1. - (PUT)Input dollar amount
+2. (GET) List of Restuarants
+* Create review screen
+1. * (CREATE/POST) Create a new review object
+* 2. Profile Screen
+* (UPDATE/PUT) Update user profie image
+1. * Maps Screen
+2. (GET) Directions of place
 - [OPTIONAL: List endpoints if using existing API such as Yelp]
