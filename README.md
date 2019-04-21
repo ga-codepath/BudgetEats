@@ -83,11 +83,20 @@ Despite the taunts of various naysayers it is possible to eat well on a budget. 
 ### [BONUS] Digital Wireframes & Mockups
 
 ### [BONUS] Interactive Prototype
-
 ## Schema 
 [This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Autor    | Point   | Image author|
+| CreatAt  | DateTime | Date when review is posted     |
+|List      | Array    |List of Reasturants    |
+| dollarAmount|Number    |Amount of cash|
+|          |          |              |
+
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
