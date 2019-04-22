@@ -77,8 +77,7 @@ Despite the taunts of various naysayers it is possible to eat well on a budget. 
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="![](https://i.imgur.com/vKVS5jb.jpg)
-" width=600>
+![](https://i.imgur.com/zuwN7pz.jpg)
 
 ### [BONUS] Digital Wireframes & Mockups
 
