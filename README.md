@@ -110,3 +110,12 @@ Despite the taunts of various naysayers it is possible to eat well on a budget. 
 
 Basic Login Screen with the user name password and register here!
 ![](https://i.imgur.com/KbVOVg7.png)
+
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/ga-codepath/BudgetEats/blob/master/foodbudget.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
